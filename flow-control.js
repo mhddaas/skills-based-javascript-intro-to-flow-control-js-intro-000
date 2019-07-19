@@ -11,5 +11,5 @@ function teenager(age)
   return "You are a teenager!"
 }
   else { return "You are a kid!"
-    
+
   }
